@@ -4,8 +4,10 @@ Guard是一个用来网络验证、卡密验证的平台.
 - 支持代理端
 - 支持HTTP和Socket
 - 支持定制化功能
-- 支持全语言一键掉用库
+- 支持全语言一键调用库  
 需要的老板可以直接找我要demo体验
+# 项目演示
+[BV19tCoYAESL](https://www.bilibili.com/video/BV19tCoYAESL/)
 # 网站截图
 仪表盘
 ![仪表盘](image.png)
